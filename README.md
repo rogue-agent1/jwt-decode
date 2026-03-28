@@ -1,6 +1,11 @@
 # jwt-decode
-JWT decoder (header + payload extraction). Zero dependencies.
+
+Decode and inspect JWT tokens (no verification).""".
+
+Zero dependencies. Python 3.8+.
+
+## Usage
+
 ```bash
-python3 jwt_decode.py --demo
-python3 jwt_decode.py "eyJ..."
+python3 jwt_decode.py --help
 ```
