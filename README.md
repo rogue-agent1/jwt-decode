@@ -1,11 +1,13 @@
-# jwt-decode
+# jwt_decode
 
-Decode and inspect JWT tokens (no verification).""".
-
-Zero dependencies. Python 3.8+.
+JWT decoder — decode without verification, check expiry
 
 ## Usage
 
 ```bash
 python3 jwt_decode.py --help
 ```
+
+## License
+
+MIT
